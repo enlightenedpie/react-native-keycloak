@@ -1,6 +1,6 @@
 {
   "name": "@enlightenedpie/react-native-keycloak",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "license": "MIT",
   "description": "React Native component for Keycloak javascript adapter (forked from https://github.com/react-keycloak/react-native-keycloak)",
   "repository": "https://github.com/enlightenedpie/react-native-keycloak",
