@@ -1,14 +1,14 @@
 {
-  "name": "@react-keycloak/native",
+  "name": "@enlightenedpie/react-native-keycloak",
   "version": "0.6.0",
   "license": "MIT",
-  "description": "React Native component for Keycloak javascript adapter",
-  "repository": "https://github.com/react-keycloak/react-native-keycloak",
-  "author": "IronTony <zimzum4@gmail.com> (https://github.com/IronTony)",
+  "description": "React Native component for Keycloak javascript adapter (Fork of @react-keycloak/native",
+  "repository": "https://github.com/enlightenedpie/react-native-keycloak",
+  "author": "imdavidpaul <enlightenedpie@gmail.com> (https://github.com/enlightenedpie)",
   "bugs": {
-    "url": "https://github.com/react-keycloak/react-native-keycloak/issues"
+    "url": "https://github.com/enlightenedpie/react-native-keycloak/issues"
   },
-  "homepage": "https://github.com/react-keycloak/react-native-keycloak#readme",
+  "homepage": "https://github.com/enlightenedpie/react-native-keycloak#readme",
   "keywords": [
     "react",
     "react-native",
